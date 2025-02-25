@@ -114,10 +114,9 @@ analytics:
 # Site Author
 author:
   name             : "Oladayo Siyanbola"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/Oladayo.jpg"
   bio              : "Data Enthusiast exploring the world of analytics, science and engineering"
   location         : "United Kingdom"
-  #email            : "Oladayo.Siyanbola@yahoo.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
